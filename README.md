@@ -1,4 +1,4 @@
-# Concierge Live - Senior Engineering Job
+# Concierge Live - Senior Engineer Job
 
 We're looking for someone who is smart, curious, and loves building web apps. A full stack engineer that enjoys all aspects of web development and has experience managing and deploying software.
 
